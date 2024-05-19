@@ -1,1 +1,1 @@
-# Electivebucket
+# Electivebucket refer to a set of elective courses or modules that students can choose from to tailor their educational experience according to their interests or career goals. These elective buckets could encompass various sub-disciplines within engineering, such as mechanical, electrical, civil, or computer engineering, among others.
